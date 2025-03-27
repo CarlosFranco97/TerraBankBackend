@@ -27,7 +27,7 @@ Manejo de Excepciones: Para evitar errores inesperados en la aplicación.
 ## Instalación y configuración
 
 1. Clonar el repositorio
-git clone https://github.com/carlosfranco97/terrabankpoo.git
+git clone https://github.com/carlosfranco97/terrabankbackend.git
 
 2. Acceder al directorio del proyecto:
 cd terrabank
